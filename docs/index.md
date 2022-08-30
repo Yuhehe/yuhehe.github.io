@@ -2,5 +2,5 @@
 
  
 
-![chainsawman](https://github.com/Yuhehe/yuhehe.github.io/blob/main/docs/index.assets/chainsawman.png)
+![chainsawman](./index.assets/chainsawman.png)
 
