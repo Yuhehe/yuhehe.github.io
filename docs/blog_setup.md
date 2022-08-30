@@ -6,13 +6,13 @@
 
 #### pip报错：
 
->   ValueError: check_hostname requires server_hostname
+> ValueError: check_hostname requires server_hostname
 
 pip检测到使用代理，不安全，将梯子关掉即可
 
 #### pip下载过慢：
 
->   参考链接：https://blog.csdn.net/uu_189340/article/details/123972245
+> 参考链接：https://blog.csdn.net/uu_189340/article/details/123972245
 
 使用镜像源下载
 
@@ -33,14 +33,14 @@ pip install numpy==1.21.4 -i https://pypi.tuna.tsinghua.edu.cn/simple/
 
 #### conda install 和 pip install 区别：
 
->   参考链接：https://www.zhihu.com/question/395145313
+> 参考链接：https://www.zhihu.com/question/395145313
 
 ### 发布后
 
-#### 图片显示不出来
+#### ~~图片显示不出来~~
 
-原因：如果使用typora编辑的markdown，那么在插入图片后，他的默认路径是 `/*.assets/*.png`
+~~原因：如果使用typora编辑的markdown，那么在插入图片后，他的默认路径是 `/*.assets/*.png`~~
 
-而这样GitHub在资源检索上比较严格，这样的路径在发布时是找不到图片的，需要加一个 `.`
+~~而这样GitHub在资源检索上比较严格，这样的路径在发布时是找不到图片的，需要加一个 `.`~~
 
-即：`./*.assets/*.png`
+~~即：`./*.assets/*.png`~~
