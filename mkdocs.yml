@@ -1,4 +1,5 @@
-site_name: My Docs
+site_name: Yuhe blog
+site_author: Yuhe
 theme:
   name: material
   palette:
