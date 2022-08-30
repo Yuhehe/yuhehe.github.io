@@ -2,5 +2,5 @@
 
  
 
-![chainsawman](./index.assets/chainsawman.png)
+![chainsawman](index.assets/chainsawman.png)
 
