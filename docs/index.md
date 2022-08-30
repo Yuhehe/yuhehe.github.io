@@ -2,4 +2,4 @@
 
  
 
-![chainsawman](index.assets/chainsawman.png)
+![chainsawman](/docs/index.assets/chainsawman.png)
